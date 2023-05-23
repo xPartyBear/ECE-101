@@ -1,0 +1,7 @@
+Dim: 2
+Red XY: 0.675 0.322
+Red Radius: 2.35
+Green XY: 0.167 0.04
+Green Radius: 0.65489
+Blue XY: 0.4091 0.518
+Blue Radius: 2168.51
