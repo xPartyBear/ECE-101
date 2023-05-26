@@ -1,0 +1,3 @@
+C:/Users/Yosgs/OneDrive/School/Kettering/Senior 2/ECE 101/C Assignments/cmake-build-debug/CMakeFiles/C_Assignments.dir
+C:/Users/Yosgs/OneDrive/School/Kettering/Senior 2/ECE 101/C Assignments/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yosgs/OneDrive/School/Kettering/Senior 2/ECE 101/C Assignments/cmake-build-debug/CMakeFiles/rebuild_cache.dir
