@@ -19,12 +19,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="Add C Assignments">
-      <change afterPath="$PROJECT_DIR$/../C In-Class/Week8_Day2_Functions_Part1.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C In-Class/Week8_Day2_Functions_Part1.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C In-Class/Week8_Day2_Functions_Part1.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C In-Class/Week8_Day2_Functions_Part2.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C In-Class/Week8_Day2_Functions_Part2.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C In-Class/Week8_Day2_myFunctions_Part1.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECE 101 Assignment 7 Michael Dekoski.c" beforeDir="false" afterPath="$PROJECT_DIR$/ECE 101 Assignment 7 Michael Dekoski.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ECE 101 Assignment 7 Michael Dekoski.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ECE 101 Assignment 7 Michael Dekoski.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +45,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Yosgs/OneDrive/School/Kettering/Senior 2/ECE 101/C In-Class",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
@@ -86,6 +86,8 @@
       <updated>1685125241299</updated>
       <workItem from="1685125242641" duration="326000" />
       <workItem from="1685125581808" duration="92000" />
+      <workItem from="1685305112324" duration="344000" />
+      <workItem from="1685305470795" duration="2641000" />
     </task>
     <task id="LOCAL-00001" summary="Add C Assignments">
       <created>1685125661603</created>
