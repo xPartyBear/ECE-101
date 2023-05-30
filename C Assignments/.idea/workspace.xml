@@ -18,11 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="Add C Assignments">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECE 101 Assignment 7 Michael Dekoski.c" beforeDir="false" afterPath="$PROJECT_DIR$/ECE 101 Assignment 7 Michael Dekoski.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECE 101 Assignment 7 Michael Dekoski.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ECE 101 Assignment 7 Michael Dekoski.exe" afterDir="false" />
-    </list>
+    <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="Assignment 7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +83,7 @@
       <workItem from="1685125242641" duration="326000" />
       <workItem from="1685125581808" duration="92000" />
       <workItem from="1685305112324" duration="344000" />
-      <workItem from="1685305470795" duration="2641000" />
+      <workItem from="1685305470795" duration="2768000" />
     </task>
     <task id="LOCAL-00001" summary="Add C Assignments">
       <created>1685125661603</created>
@@ -96,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685125661603</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Assignment 7">
+      <created>1685309177880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685309177880</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +113,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add C Assignments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add C Assignments" />
+    <MESSAGE value="Assignment 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 7" />
   </component>
 </project>
