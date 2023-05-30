@@ -18,7 +18,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="Assignment 7" />
+    <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="Assignment 7">
+      <change afterPath="$PROJECT_DIR$/ECE 101 Assignment 8 Program 1 Michael Dekoski.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ECE 101 Assignment 8 Program 2 Michael Dekoski.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ECE 101 Assignment 8 Program 2 Michael Dekoski.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +42,16 @@
     <option name="minorVersion" value="1.3" />
   </component>
   <component name="ProjectId" id="2QLG2XxhYyOzdwJt9IiTfeIvoe5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -50,7 +59,7 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Yosgs/OneDrive/School/Kettering/Senior 2/ECE 101/C In-Class",
+    "last_opened_file_path": "C:/Users/Yosgs/OneDrive/School/Kettering/Senior 2/ECE 101/C Assignments/ECE 101 Assignment 8 Program 1 Michael Dekoski.c",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,10 +68,10 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="C/C++ File.ECE 101 Assignment 8 Program 1 Michael Dekoski.c">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="ECE 101 Assignment 7 Michael Dekoski.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Assignments" TARGET_NAME="ECE 101 Assignment 7 Michael Dekoski.c" CONFIG_NAME="ECE 101 Assignment 7 Michael Dekoski.c">
@@ -71,6 +80,23 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ECE 101 Assignment 8 Program 1 Michael Dekoski.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Assignments" TARGET_NAME="ECE 101 Assignment 8 Program 1 Michael Dekoski.c" CONFIG_NAME="ECE 101 Assignment 8 Program 1 Michael Dekoski.c">
+      <option name="sourceFile" value="C:\Users\Yosgs\OneDrive\School\Kettering\Senior 2\ECE 101\C Assignments\ECE 101 Assignment 8 Program 1 Michael Dekoski.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ECE 101 Assignment 8 Program 2 Michael Dekoski.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Assignments" TARGET_NAME="ECE 101 Assignment 8 Program 2 Michael Dekoski.c" CONFIG_NAME="ECE 101 Assignment 8 Program 2 Michael Dekoski.c">
+      <option name="sourceFile" value="C:\Users\Yosgs\OneDrive\School\Kettering\Senior 2\ECE 101\C Assignments\ECE 101 Assignment 8 Program 2 Michael Dekoski.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ File.ECE 101 Assignment 7 Michael Dekoski.c" />
+      <item itemvalue="C/C++ File.ECE 101 Assignment 8 Program 2 Michael Dekoski.c" />
+      <item itemvalue="C/C++ File.ECE 101 Assignment 8 Program 1 Michael Dekoski.c" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -84,6 +110,7 @@
       <workItem from="1685125581808" duration="92000" />
       <workItem from="1685305112324" duration="344000" />
       <workItem from="1685305470795" duration="2768000" />
+      <workItem from="1685470421116" duration="1408000" />
     </task>
     <task id="LOCAL-00001" summary="Add C Assignments">
       <created>1685125661603</created>
@@ -112,6 +139,7 @@
     <isAutomaticFoundErrors value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add C Assignments" />
     <MESSAGE value="Assignment 7" />
     <option name="LAST_COMMIT_MESSAGE" value="Assignment 7" />
