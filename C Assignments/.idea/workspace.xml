@@ -18,10 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="Assignment 7">
-      <change afterPath="$PROJECT_DIR$/ECE 101 Assignment 8 Program 1 Michael Dekoski.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ECE 101 Assignment 8 Program 2 Michael Dekoski.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ECE 101 Assignment 8 Program 2 Michael Dekoski.exe" afterDir="false" />
+    <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="Assignment 8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,29 +46,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Yosgs/OneDrive/School/Kettering/Senior 2/ECE 101/C Assignments/ECE 101 Assignment 8 Program 1 Michael Dekoski.c",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yosgs/OneDrive/School/Kettering/Senior 2/ECE 101/C Assignments/ECE 101 Assignment 8 Program 1 Michael Dekoski.c&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C/C++ File.ECE 101 Assignment 8 Program 1 Michael Dekoski.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="ECE 101 Assignment 7 Michael Dekoski.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Assignments" TARGET_NAME="ECE 101 Assignment 7 Michael Dekoski.c" CONFIG_NAME="ECE 101 Assignment 7 Michael Dekoski.c">
@@ -110,7 +107,8 @@
       <workItem from="1685125581808" duration="92000" />
       <workItem from="1685305112324" duration="344000" />
       <workItem from="1685305470795" duration="2768000" />
-      <workItem from="1685470421116" duration="1408000" />
+      <workItem from="1685470421116" duration="1544000" />
+      <workItem from="1685492122002" duration="375000" />
     </task>
     <task id="LOCAL-00001" summary="Add C Assignments">
       <created>1685125661603</created>
@@ -126,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685309177880</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Assignment 8">
+      <created>1685472096179</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685472096179</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +147,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Add C Assignments" />
     <MESSAGE value="Assignment 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 7" />
+    <MESSAGE value="Assignment 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 8" />
   </component>
 </project>
