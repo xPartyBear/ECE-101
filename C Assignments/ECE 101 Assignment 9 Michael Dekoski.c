@@ -43,6 +43,7 @@ int main() {
                 waitFirst = 1;
             }
             if (GetAsyncKeyState(VK_CONTROL)) {
+                getch();
                 currentState = 3; // Goto Timing State
             } else if (GetAsyncKeyState(VK_ESCAPE)) {
                 currentState = 0; // Goto Shutdown State
@@ -53,7 +54,6 @@ int main() {
                     stopwatch(savedTime);
                 }
             }
-            getch();
         } else if (currentState == 3) { // Timing State
             if (!timeFirst) { // First time in this state
                 printf("T\n");
@@ -61,6 +61,7 @@ int main() {
                 timeFirst = 1;
             }
             if (GetAsyncKeyState(VK_CONTROL)) {
+                getch();
                 currentState = 4; // Goto Disp State
                 stopTime = clock();
                 totalTime = stopTime - startTime;
@@ -73,7 +74,6 @@ int main() {
                     stopwatch(savedTime);
                 }
             }
-            getch();
         } else if (currentState == 4) { // Disp State
             if (!dispFirst) { // First time in this state
                 stopwatch(totalTime);
