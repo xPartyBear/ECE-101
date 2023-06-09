@@ -19,9 +19,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="Assignment 9">
+      <change afterPath="$PROJECT_DIR$/ECE 101 C Final Project Michael Dekoski.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECE 101 Assignment 9 Michael Dekoski.c" beforeDir="false" afterPath="$PROJECT_DIR$/ECE 101 Assignment 9 Michael Dekoski.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ECE 101 Assignment 9 Michael Dekoski.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ECE 101 Assignment 9 Michael Dekoski.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +66,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.ECE 101 Assignment 9 Michael Dekoski.c">
+  <component name="RunManager" selected="C/C++ File.ECE 101 Assignment 7 Michael Dekoski.c">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -97,11 +96,18 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ECE 101 C Final Project Michael Dekoski.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Assignments" TARGET_NAME="ECE 101 C Final Project Michael Dekoski.c" CONFIG_NAME="ECE 101 C Final Project Michael Dekoski.c">
+      <option name="sourceFile" value="ECE 101 C Final Project Michael Dekoski.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="C/C++ File.ECE 101 C Final Project Michael Dekoski.c" />
       <item itemvalue="C/C++ File.ECE 101 Assignment 9 Michael Dekoski.c" />
-      <item itemvalue="C/C++ File.ECE 101 Assignment 7 Michael Dekoski.c" />
       <item itemvalue="C/C++ File.ECE 101 Assignment 8 Program 2 Michael Dekoski.c" />
       <item itemvalue="C/C++ File.ECE 101 Assignment 8 Program 1 Michael Dekoski.c" />
+      <item itemvalue="C/C++ File.ECE 101 Assignment 7 Michael Dekoski.c" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -126,7 +132,7 @@
       <workItem from="1686331193503" duration="18000" />
       <workItem from="1686333596393" duration="711000" />
       <workItem from="1686336352865" duration="849000" />
-      <workItem from="1686339273175" duration="1512000" />
+      <workItem from="1686339273175" duration="2112000" />
     </task>
     <task id="LOCAL-00001" summary="Add C Assignments">
       <created>1685125661603</created>
@@ -191,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686340085747</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Assignment 9">
+      <created>1686340868898</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1686340868898</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
