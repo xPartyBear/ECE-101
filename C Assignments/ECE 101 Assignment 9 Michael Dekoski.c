@@ -23,11 +23,11 @@ int totalTime, savedTime = -1;
 int main() {
     while(1) {
         switch(currentState) {
-            case 0:
+            case 0: // Shutdown State
                 printf("Shutting Down\n");
                 Sleep(2000);
                 return 0;
-            case 1:
+            case 1: // Initial State
                 if (!initFirst) { // First time in this state
                     printf("I\n");
                     startTime = clock();
@@ -40,7 +40,7 @@ int main() {
                     currentState = 2; // Goto Wait State
                 }
                 break;
-            case 2:
+            case 2: // Wait State
                 if (!waitFirst) { // First time in this state
                     printf("W\n");
                     waitFirst = 1;
@@ -50,7 +50,7 @@ int main() {
                     currentState = 3; // Goto Timing State
                 } else if (GetAsyncKeyState(VK_ESCAPE)) {
                     currentState = 0; // Goto Shutdown State
-                } else if (GetAsyncKeyState('B')) { // B Shows the saved time
+                } else if (GetAsyncKeyState('B')) { // Shows the saved time
                     if (savedTime == -1) {
                         printf("--\n");
                     } else {
@@ -58,7 +58,7 @@ int main() {
                     }
                 }
                 break;
-            case 3:
+            case 3: // Timing State
                 if (!timeFirst) { // First time in this state
                     printf("T\n");
                     startTime = clock();
@@ -71,7 +71,7 @@ int main() {
                     totalTime = stopTime - startTime;
                 } else if (GetAsyncKeyState(VK_ESCAPE)) {
                     currentState = 0; // Goto Shutdown State
-                } else if (GetAsyncKeyState('B')) {
+                } else if (GetAsyncKeyState('B')) { // Shows the saved time
                     if (savedTime == -1) {
                         printf("--\n");
                     } else {
@@ -79,7 +79,7 @@ int main() {
                     }
                 }
                 break;
-            case 4:
+            case 4: // Disp State
                 if (!dispFirst) { // First time in this state
                     stopwatch(totalTime);
                     startTime = clock();
@@ -100,6 +100,7 @@ int main() {
     }
 }
 
+// Calculate and display the time elapsed
 void stopwatch(int totalTimeW) {
     // Calculate the time elapsed
     savedTime = totalTime;
