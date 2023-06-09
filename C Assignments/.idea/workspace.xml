@@ -19,11 +19,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="Assignment 9">
-      <change afterPath="$PROJECT_DIR$/../C In-Class/Week10_Day1_Stopwatch.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../C In-Class/Week10_Day2_State_Machine.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C In-Class/Week10_Day2_State_Machine.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ECE 101 Assignment 9 Michael Dekoski.c" beforeDir="false" afterPath="$PROJECT_DIR$/ECE 101 Assignment 9 Michael Dekoski.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ECE 101 Assignment 9 Michael Dekoski.exe" beforeDir="false" afterPath="$PROJECT_DIR$/ECE 101 Assignment 9 Michael Dekoski.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C In-Class/Week10_Day2_State_Machine.c" beforeDir="false" afterPath="$PROJECT_DIR$/../C In-Class/Week10_Day2_State_Machine.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +70,9 @@
   }
 }</component>
   <component name="RunManager" selected="C/C++ File.ECE 101 Assignment 9 Michael Dekoski.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="ECE 101 Assignment 7 Michael Dekoski.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Assignments" TARGET_NAME="ECE 101 Assignment 7 Michael Dekoski.c" CONFIG_NAME="ECE 101 Assignment 7 Michael Dekoski.c">
@@ -126,7 +126,8 @@
       <workItem from="1686178676042" duration="41000" />
       <workItem from="1686178731332" duration="11825000" />
       <workItem from="1686331193503" duration="18000" />
-      <workItem from="1686333596393" duration="226000" />
+      <workItem from="1686333596393" duration="711000" />
+      <workItem from="1686336352865" duration="800000" />
     </task>
     <task id="LOCAL-00001" summary="Add C Assignments">
       <created>1685125661603</created>
@@ -170,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686072484766</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Assignment 9">
+      <created>1686333842048</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686333842048</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
