@@ -18,8 +18,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="Assignment 9">
-      <change afterPath="$PROJECT_DIR$/ECE 101 C Final Project Michael Dekoski.c" afterDir="false" />
+    <list default="true" id="846152c3-67c5-4f5d-b6c1-e72fc4f58b9b" name="Changes" comment="C Final Project">
+      <change afterPath="$PROJECT_DIR$/ECE 101 C Final Project Michael Dekoski.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,10 +66,10 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="C/C++ File.ECE 101 Assignment 7 Michael Dekoski.c">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="C/C++ File.ECE 101 C Final Project Michael Dekoski.c">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="ECE 101 Assignment 7 Michael Dekoski.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C Assignments" TARGET_NAME="ECE 101 Assignment 7 Michael Dekoski.c" CONFIG_NAME="ECE 101 Assignment 7 Michael Dekoski.c">
@@ -132,7 +132,10 @@
       <workItem from="1686331193503" duration="18000" />
       <workItem from="1686333596393" duration="711000" />
       <workItem from="1686336352865" duration="849000" />
-      <workItem from="1686339273175" duration="2112000" />
+      <workItem from="1686339273175" duration="2719000" />
+      <workItem from="1686352838725" duration="1306000" />
+      <workItem from="1686449834899" duration="1680000" />
+      <workItem from="1686599896833" duration="359000" />
     </task>
     <task id="LOCAL-00001" summary="Add C Assignments">
       <created>1685125661603</created>
@@ -204,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686340868898</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="C Final Project">
+      <created>1686351871373</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686351871373</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +232,7 @@
     <MESSAGE value="Assignment 7" />
     <MESSAGE value="Assignment 8" />
     <MESSAGE value="Assignment 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="Assignment 9" />
+    <MESSAGE value="C Final Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="C Final Project" />
   </component>
 </project>
